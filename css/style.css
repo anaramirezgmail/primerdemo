@@ -1,0 +1,78 @@
+body{
+    background-color: black;
+    color:white
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+h1{
+    font-size: 48px;
+   font-weight: 400;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: 200;
+}
+h3{
+    font-size: 20px;
+    font-weight:100;
+}
+#main1{
+    background-color:rgb(63, 209, 63);
+    color: black;
+}
+#vision{
+    background-color: coral;
+    color:black;
+}
+#comparacion{
+    background-color: rgb(116, 222, 236);
+    color: blue;
+}
+#casos{
+    background-color: rgb(102, 98, 98);
+    color:bisque;
+}
+#cirujana{
+    background-color:red;
+    color:plum;
+}
+#matematica{
+    background-color: coral;
+    color:black;
+}
+#genetista{
+    background-color: lightcyan;
+    color:rgb(4, 56, 4);
+}
+#ingeniera{
+    background-color: purple;
+    color:white;
+}
+#investigadora{
+    background-color: lightskyblue;
+    color:rgb(4, 4, 65);
+}
+#comentario{
+    background-color: wheat;
+    color:black;
+}
+#main_footer{
+    background-color: black;
+    color:white;
+}
+.imagen-vista{
+    max-width: 100%;
+    height: autopx;
+}
+.margen{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.contenido{
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
