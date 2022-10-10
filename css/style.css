@@ -1,20 +1,20 @@
 body{
     background-color: black;
-    color:white
+    color:white;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-size: 17px;
 }
 h1{
-    font-size: 48px;
+    font-size: 35px;
    font-weight: 400;
 }
 
 h2{
-    font-size: 40px;
+    font-size: 25px;
     font-weight: 200;
 }
 h3{
-    font-size: 20px;
+    font-size: 18px;
     font-weight:100;
 }
 #main1{
@@ -31,30 +31,10 @@ h3{
 }
 #casos{
     background-color: rgb(102, 98, 98);
-    color:bisque;
-}
-#cirujana{
-    background-color:red;
-    color:plum;
-}
-#matematica{
-    background-color: coral;
     color:black;
 }
-#genetista{
-    background-color: lightcyan;
-    color:rgb(4, 56, 4);
-}
-#ingeniera{
-    background-color: purple;
-    color:white;
-}
-#investigadora{
-    background-color: lightskyblue;
-    color:rgb(4, 4, 65);
-}
 #comentario{
-    background-color: wheat;
+    background-color: rgb(170, 120, 26);
     color:black;
 }
 #main_footer{
@@ -73,6 +53,13 @@ h3{
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 05px;
+    padding-right: 10px;
+}
+.row{
+    display: flex;
+}
+.separacion{
+    padding-left: 20px;
+    padding-right: 20px;
 }
